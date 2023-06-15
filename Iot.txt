@@ -18,8 +18,8 @@ DHT dht(DHTPIN, DHTTYPE);
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "YJSANTY" // User ID
-#define WLAN_PASS       "Github"          // Pass
+#define WLAN_SSID       "Hamsavalli D" // User ID
+#define WLAN_PASS       "Dharshini26"          // Pass
 
 /************************* Adafruit.io Setup *********************************/
 
